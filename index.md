@@ -5,18 +5,24 @@ alt_title: "Hi there"
 sub_title: "Welcome to my page"
 image: /assets/Catarina.JPG
 introduction: |
-  Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+  I'm a Business Analyst, baker, photographer and a lifetime student.  I was born in Lisbon with a passion to discover the world. In my free time you can find me:
 
-  - Clean responsive design with six customizable skins
-  - Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-  - About page layout
-  - Disqus Comments and Google Analytics support
-  - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
-actions:
-  - label: "Get Started"
-    icon: github
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-  - label: "Download"
-    icon: download
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+  - In the tea isle (green tea lover)
+  - Having a pistachio ice cream
+  - Trying out new Middle Eastern restaurants
+  - Looking for new recipes to try out
+  - Exploring the world
+  - Baking
+  - Looking for flights
+
 ---
+
+[//]: #
+[//]: # actions:
+[//]: #  - label: "Get Started"
+[//]: #    icon: github
+[//]: #    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
+[//]: #  - label: "Download"
+[//]: #    icon: download
+[//]: #    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+ [//]: #---
