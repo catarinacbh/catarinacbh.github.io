@@ -9,7 +9,7 @@ introduction: |
   - Trying out new Middle Eastern restaurants
   - Looking for new recipes to try out
   - Exploring the world
-  - Baking
+  - In a HITT or spinning class
   - Looking for flights
   - Reading
 ---
